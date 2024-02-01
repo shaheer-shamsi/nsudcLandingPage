@@ -2,8 +2,8 @@ import React from 'react';
 
 const OurPartners = () => {
     return (
-        <div className="max-w-4xl mx-auto mb-10 ">
-            <h1 className='text-2xl lg:text-4xl font-bold underline text-center mt-12 mb-5 lg:mb-10 '>Our Partners</h1>
+        <div className="max-w-5xl mx-auto mb-6 lg:mb-16 ">
+            <h1 className='text-2xl lg:text-4xl font-bold  text-center mt-12 mb-5 lg:mb-14 '>Our Partners</h1>
             <div className='grid grid-cols-2 lg:grid-cols-4  gap-9 justify-center items-center'>
                 <img className='max-w-24 mx-auto h-20' src="https://res.cloudinary.com/dgohi0iqm/image/upload/v1706764865/logo_tntnrh.svg" alt="iom" />
                 <img className='max-w-24 mx-auto h-20' src="https://res.cloudinary.com/dgohi0iqm/image/upload/v1706764900/icon_y7p4rp.png" alt="somoi" />
